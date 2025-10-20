@@ -1,0 +1,11 @@
+{
+  "name": "survey_form",
+  "version": "1.0.0",
+  "description": "This package help other TEDx chapters to collect information using forms. This form is powered by SurveyJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TEDxPetalingStreet",
+  "license": "MIT"
+}
